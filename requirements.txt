@@ -6,4 +6,4 @@ joblib
 streamlit
 matplotlib
 seaborn
-altair
+altair==4.2.2
