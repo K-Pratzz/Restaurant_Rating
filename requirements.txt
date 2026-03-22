@@ -7,3 +7,5 @@ streamlit
 matplotlib
 seaborn
 altair==4.2.2
+xgboost
+lightgbm
